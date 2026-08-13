@@ -1,0 +1,232 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trilium Notes",
+          "description": "A hierarchical note taking application with a focus on building large personal knowledge bases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T08:54:25Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Org-roam",
+          "description": "A Roam replica built on top of the all-powerful Org-mode for Emacs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-04-27T03:16:28Z",
+            "owner": "org-roam",
+            "repo": "org-roam",
+            "stars": 6011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hode",
+          "description": "An editor, search engine and query language for a knowledge hypergraph. Relationships can have any number of members, and those members can be other relationships.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2021-06-03T18:57:11Z",
+            "owner": "JeffreyBenjaminBrown",
+            "repo": "hode",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Platforms, Applications and Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NetworkX",
+          "description": "A Python package for the creation, manipulation and study of complex networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:38:19Z",
+            "owner": "networkx",
+            "repo": "networkx",
+            "stars": 17190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsMind",
+          "description": "A JavaScript library for mind map visualizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-18T15:55:29Z",
+            "owner": "hizzgdev",
+            "repo": "jsmind",
+            "stars": 3789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash Cytoscape",
+          "description": "A Dash component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-09T18:56:08Z",
+            "owner": "plotly",
+            "repo": "dash-cytoscape",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TopicDB",
+          "description": "A topic maps-based semantic graph store (using SQLite for persistence).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-07T07:35:18Z",
+            "owner": "brettkromkamp",
+            "repo": "topic-db",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Treeviz",
+          "description": "A JavaScript library to represent tree diagrams with the ability to handle dynamic data flows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-03T19:05:28Z",
+            "owner": "PierreCapo",
+            "repo": "treeviz",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remarkable Wiki",
+          "description": "A lightweight and functional read-only wiki. Supports wiki links. Could be used as web representation of Foam notes. Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-05-24T22:00:11Z",
+            "owner": "mrjazz",
+            "repo": "remarkable",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Knowledge Graph",
+          "description": "A curated collection of research on knowledge graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-07T16:30:33Z",
+            "owner": "shaoxiongji",
+            "repo": "knowledge-graphs",
+            "stars": 1792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Semantic Web",
+          "description": "A curated list of various semantic web and linked data resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T13:17:37Z",
+            "owner": "semantalytics",
+            "repo": "awesome-semantic-web",
+            "stars": 1677
+          }
+        }
+      ],
+      "title": "Related Awesome-Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ArchiveBox",
+          "description": "An open source self-hosted internet archiving solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:18:19Z",
+            "owner": "ArchiveBox",
+            "repo": "ArchiveBox",
+            "stars": 28109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Gardening",
+          "description": "A collective of gardeners publicly tending their digital notes on the interwebs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-22T02:48:25Z",
+            "owner": "MaggieAppleton",
+            "repo": "digital-gardeners",
+            "stars": 4778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Second-Brain",
+          "description": "A curated list of awesome public Zettelkastens / Second Brains / Digital Gardens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T08:41:06Z",
+            "owner": "KasperZutterman",
+            "repo": "Second-Brain",
+            "stars": 1827
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:41:21.806Z",
+    "original_repository": "brettkromkamp/awesome-knowledge-management",
+    "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
+    "enhanced_repository": "enhansome/enhansome-knowledge-management",
+    "enhanced_repository_description": null,
+    "title": "Awesome Knowledge Management with stars"
+  }
+}
