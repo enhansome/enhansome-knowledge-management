@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:38:59Z",
+            "last_commit": "2026-08-15T09:07:14Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37410
+            "stars": 37421
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-27T03:16:28Z",
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6010
+            "stars": 6011
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T01:20:55Z",
+            "last_commit": "2026-08-14T23:49:03Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17193
+            "stars": 17192
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-05-18T15:55:29Z",
             "owner": "hizzgdev",
             "repo": "jsmind",
-            "stars": 3790
+            "stars": 3791
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1792
+            "stars": 1791
           }
         },
         {
@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-20T13:17:37Z",
+            "last_commit": "2026-08-14T12:39:32Z",
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
             "stars": 1677
@@ -183,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:10:20Z",
+            "last_commit": "2026-08-15T09:50:33Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28117
+            "stars": 28118
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4779
+            "stars": 4781
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1827
+            "stars": 1828
           }
         }
       ],
@@ -222,7 +222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:36:36.705Z",
+    "last_updated": "2026-08-15T09:54:36.750Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
     "enhanced_repository": "enhansome/enhansome-knowledge-management",
