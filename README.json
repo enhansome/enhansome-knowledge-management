@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T09:07:14Z",
+            "last_commit": "2026-08-16T09:14:44Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37421
+            "stars": 37445
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-27T03:16:28Z",
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6011
+            "stars": 6010
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-14T23:49:03Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17192
+            "stars": 17200
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-14T12:39:32Z",
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1677
+            "stars": 1678
           }
         }
       ],
@@ -183,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T09:50:33Z",
+            "last_commit": "2026-08-16T09:44:27Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28118
+            "stars": 28121
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4781
+            "stars": 4783
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1828
+            "stars": 1829
           }
         }
       ],
@@ -222,7 +222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:54:36.750Z",
+    "last_updated": "2026-08-16T09:55:37.043Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
     "enhanced_repository": "enhansome/enhansome-knowledge-management",
