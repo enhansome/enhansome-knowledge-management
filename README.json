@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:10:43Z",
+            "last_commit": "2026-08-18T09:58:57Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37459
+            "stars": 37475
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-27T03:16:28Z",
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6011
+            "stars": 6010
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-14T23:49:03Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17201
+            "stars": 17202
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1791
+            "stars": 1790
           }
         },
         {
@@ -183,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T06:31:29Z",
+            "last_commit": "2026-08-18T01:57:28Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28124
+            "stars": 28130
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4782
+            "stars": 4783
           }
         },
         {
@@ -222,7 +222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:07:42.515Z",
+    "last_updated": "2026-08-18T10:01:24.589Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
     "enhanced_repository": "enhansome/enhansome-knowledge-management",
