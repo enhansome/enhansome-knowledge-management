@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T08:48:33Z",
+            "last_commit": "2026-08-19T11:50:51Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37496
+            "stars": 37499
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-27T03:16:28Z",
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6010
+            "stars": 6011
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-18T21:30:37Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17205
+            "stars": 17207
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-05-18T15:55:29Z",
             "owner": "hizzgdev",
             "repo": "jsmind",
-            "stars": 3791
+            "stars": 3792
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 90356372,
             "language": "Python",
-            "last_commit": "2026-08-19T09:23:58Z",
+            "last_commit": "2026-08-19T12:28:45Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28134
+            "stars": 28136
           }
         },
         {
@@ -236,8 +236,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:02:12.944Z",
+    "last_updated": "2026-08-19T12:44:02.460Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
+    "original_repository_id": 406408083,
     "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
     "enhanced_repository": "enhansome/enhansome-knowledge-management",
     "enhanced_repository_description": null,
