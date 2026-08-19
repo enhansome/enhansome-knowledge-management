@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:58:57Z",
+            "last_commit": "2026-08-19T08:48:33Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37475
+            "stars": 37496
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231891986,
             "language": "Emacs Lisp",
             "last_commit": "2026-04-27T03:16:28Z",
             "owner": "org-roam",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160754592,
             "language": "Haskell",
             "last_commit": "2021-06-03T18:57:11Z",
             "owner": "JeffreyBenjaminBrown",
@@ -49,7 +52,7 @@
       "title": "Platforms, Applications and Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890377,
             "language": "Python",
-            "last_commit": "2026-08-14T23:49:03Z",
+            "last_commit": "2026-08-18T21:30:37Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17202
+            "stars": 17205
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5562943,
             "language": "JavaScript",
             "last_commit": "2026-05-18T15:55:29Z",
             "owner": "hizzgdev",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143769302,
             "language": "Python",
             "last_commit": "2025-08-09T18:56:08Z",
             "owner": "plotly",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77067666,
             "language": "Python",
             "last_commit": "2025-01-07T07:35:18Z",
             "owner": "brettkromkamp",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136829698,
             "language": "TypeScript",
             "last_commit": "2024-04-03T19:05:28Z",
             "owner": "PierreCapo",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343579250,
             "language": "TypeScript",
             "last_commit": "2021-05-24T22:00:11Z",
             "owner": "mrjazz",
@@ -139,7 +148,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163790723,
             "language": "JavaScript",
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71265967,
             "language": null,
             "last_commit": "2026-08-14T12:39:32Z",
             "owner": "semantalytics",
@@ -173,7 +184,7 @@
       "title": "Related Awesome-Lists"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -182,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90356372,
             "language": "Python",
-            "last_commit": "2026-08-18T01:57:28Z",
+            "last_commit": "2026-08-19T09:23:58Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28130
+            "stars": 28134
           }
         },
         {
@@ -196,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263146261,
             "language": "JavaScript",
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4783
+            "stars": 4784
           }
         },
         {
@@ -210,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268514289,
             "language": null,
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1829
+            "stars": 1830
           }
         }
       ],
@@ -222,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:01:24.589Z",
+    "last_updated": "2026-08-19T10:02:12.944Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
     "enhanced_repository": "enhansome/enhansome-knowledge-management",
