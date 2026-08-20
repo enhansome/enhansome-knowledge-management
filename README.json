@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:50:51Z",
+            "last_commit": "2026-08-20T08:01:30Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37499
+            "stars": 37513
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-27T03:16:28Z",
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6011
+            "stars": 6013
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-18T21:30:37Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17207
+            "stars": 17208
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1790
+            "stars": 1791
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-14T12:39:32Z",
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1678
+            "stars": 1679
           }
         }
       ],
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 90356372,
             "language": "Python",
-            "last_commit": "2026-08-19T12:28:45Z",
+            "last_commit": "2026-08-19T12:57:58Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28136
+            "stars": 28145
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4784
+            "stars": 4786
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1830
+            "stars": 1831
           }
         }
       ],
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:02.460Z",
+    "last_updated": "2026-08-20T10:04:01.737Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_id": 406408083,
     "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
