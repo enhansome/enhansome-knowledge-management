@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T08:01:30Z",
+            "last_commit": "2026-08-21T06:53:39Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37513
+            "stars": 37526
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 890377,
             "language": "Python",
-            "last_commit": "2026-08-18T21:30:37Z",
+            "last_commit": "2026-08-20T22:46:24Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17208
+            "stars": 17210
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2025-08-09T18:56:08Z",
             "owner": "plotly",
             "repo": "dash-cytoscape",
-            "stars": 680
+            "stars": 679
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1791
+            "stars": 1792
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-19T12:57:58Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28145
+            "stars": 28150
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1831
+            "stars": 1832
           }
         }
       ],
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:04:01.737Z",
+    "last_updated": "2026-08-21T10:03:50.018Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_id": 406408083,
     "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
