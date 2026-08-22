@@ -77,8 +77,8 @@
 
 ## Platforms, Applications and Tools
 
-* [Trilium Notes](https://github.com/zadam/trilium) ⭐ 37,526 | 🐛 670 | 🌐 TypeScript | 📅 2026-08-21 - A hierarchical note taking application with a focus on building large personal knowledge bases.
-* [Org-roam](https://github.com/org-roam/org-roam) ⭐ 6,013 | 🐛 89 | 🌐 Emacs Lisp | 📅 2026-04-27 - A Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs.
+* [Trilium Notes](https://github.com/zadam/trilium) ⭐ 37,543 | 🐛 688 | 🌐 TypeScript | 📅 2026-08-22 - A hierarchical note taking application with a focus on building large personal knowledge bases.
+* [Org-roam](https://github.com/org-roam/org-roam) ⭐ 6,015 | 🐛 89 | 🌐 Emacs Lisp | 📅 2026-04-27 - A Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs.
 * [Hode](https://github.com/JeffreyBenjaminBrown/hode) ⭐ 150 | 🐛 11 | 🌐 Haskell | 📅 2021-06-03 An editor, search engine and query language for a knowledge hypergraph. Relationships can have any number of members, and those members can be other relationships.
 * [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources — structured thought.
 * [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
@@ -165,7 +165,7 @@
 
 ## Libraries
 
-* [NetworkX](https://github.com/networkx/networkx) ⭐ 17,210 | 🐛 322 | 🌐 Python | 📅 2026-08-20 - A Python package for the creation, manipulation and study of complex networks.
+* [NetworkX](https://github.com/networkx/networkx) ⭐ 17,210 | 🐛 319 | 🌐 Python | 📅 2026-08-21 - A Python package for the creation, manipulation and study of complex networks.
 * [jsMind](https://github.com/hizzgdev/jsmind) ⭐ 3,792 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-18 - A JavaScript library for mind map visualizations.
 * [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) ⭐ 679 | 🐛 69 | 🌐 Python | 📅 2025-08-09 - A [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.
 * [TopicDB](https://github.com/brettkromkamp/topic-db) ⭐ 274 | 🐛 8 | 🌐 Python | 📅 2025-01-07 - A topic maps-based semantic graph store (using SQLite for persistence).
@@ -204,8 +204,8 @@
 
 ## Miscellaneous
 
-* [ArchiveBox](https://github.com/pirate/ArchiveBox) ⭐ 28,150 | 🐛 171 | 🌐 Python | 📅 2026-08-19 - An open source self-hosted internet archiving solution.
-* [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) ⭐ 4,786 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-22 - A collective of gardeners publicly tending their digital notes on the interwebs.
+* [ArchiveBox](https://github.com/pirate/ArchiveBox) ⭐ 28,157 | 🐛 171 | 🌐 Python | 📅 2026-08-19 - An open source self-hosted internet archiving solution.
+* [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) ⭐ 4,788 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-22 - A collective of gardeners publicly tending their digital notes on the interwebs.
 * [Second-Brain](https://github.com/KasperZutterman/Second-Brain) ⭐ 1,832 | 🐛 1 | 📅 2026-06-30 - A curated list of awesome public Zettelkastens / Second Brains / Digital Gardens.
 * [Artificial Brain Networked notebook](https://www.notion.so/Artificial-Brain-Networked-notebook-a131b468fc6f43218fb8105430304709)
 * [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
@@ -229,4 +229,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

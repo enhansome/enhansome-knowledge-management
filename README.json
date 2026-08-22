@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T06:53:39Z",
+            "last_commit": "2026-08-22T09:26:34Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37526
+            "stars": 37543
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-27T03:16:28Z",
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6013
+            "stars": 6015
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 890377,
             "language": "Python",
-            "last_commit": "2026-08-20T22:46:24Z",
+            "last_commit": "2026-08-21T21:18:06Z",
             "owner": "networkx",
             "repo": "networkx",
             "stars": 17210
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-19T12:57:58Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28150
+            "stars": 28157
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4786
+            "stars": 4788
           }
         },
         {
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:03:50.018Z",
+    "last_updated": "2026-08-22T09:54:55.371Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_id": 406408083,
     "original_repository_sha": "1f8cc1608720831837bf4ee9477846cf3a60d964",
