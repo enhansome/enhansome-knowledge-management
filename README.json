@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T08:48:19Z",
+            "last_commit": "2026-08-24T08:15:50Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37555
+            "stars": 37569
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-23T07:27:07Z",
+            "last_commit": "2026-08-24T05:00:35Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21180
+            "stars": 21200
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 838659679,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T06:10:45Z",
+            "last_commit": "2026-08-24T00:58:17Z",
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12675
+            "stars": 12681
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-27T03:16:28Z",
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6015
+            "stars": 6016
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 1160354976,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T13:44:01Z",
+            "last_commit": "2026-08-24T08:45:55Z",
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 1269112987,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T03:35:51Z",
+            "last_commit": "2026-08-24T09:37:12Z",
             "owner": "Drakonis96",
             "repo": "nodus",
-            "stars": 90
+            "stars": 96
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 1221815948,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T20:01:37Z",
+            "last_commit": "2026-08-23T22:56:59Z",
             "owner": "frankchu91",
             "repo": "mindbase-llm-wiki",
             "stars": 87
@@ -170,6 +170,36 @@
         },
         {
           "node_type": "item",
+          "title": "Persona",
+          "description": "Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1331789580,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T18:22:26Z",
+            "owner": "jayamitkatariya",
+            "repo": "personacli",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Persona",
+          "description": "Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files — all plain Markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1331789580,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T18:22:26Z",
+            "owner": "jayamitkatariya",
+            "repo": "personacli",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
           "title": "lifeos-cli",
           "description": "A terminal-native LifeOS for structuring notes, tasks, habits, events, schedules, and timelogs in one CLI workflow.",
           "children": [],
@@ -177,7 +207,7 @@
             "archived": false,
             "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-23T06:23:43Z",
+            "last_commit": "2026-08-24T08:26:18Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -196,21 +226,6 @@
             "owner": "SamuelGong",
             "repo": "ZhihuAgent",
             "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Persona",
-          "description": "Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1331789580,
-            "language": "TypeScript",
-            "last_commit": "2026-08-23T09:42:21Z",
-            "owner": "jayamitkatariya",
-            "repo": "personacli",
-            "stars": 8
           }
         },
         {
@@ -237,7 +252,7 @@
             "archived": false,
             "id": 1332805392,
             "language": "HTML",
-            "last_commit": "2026-08-22T03:38:08Z",
+            "last_commit": "2026-08-24T02:14:21Z",
             "owner": "andrwspt",
             "repo": "topicsplit",
             "stars": 2
@@ -261,7 +276,7 @@
             "last_commit": "2026-08-21T21:18:06Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17216
+            "stars": 17217
           }
         },
         {
@@ -321,7 +336,7 @@
             "last_commit": "2024-04-03T19:05:28Z",
             "owner": "PierreCapo",
             "repo": "treeviz",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -393,7 +408,7 @@
             "last_commit": "2026-08-19T12:57:58Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28166
+            "stars": 28165
           }
         },
         {
@@ -408,7 +423,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4788
+            "stars": 4790
           }
         },
         {
@@ -423,7 +438,7 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1833
+            "stars": 1834
           }
         }
       ],
@@ -431,10 +446,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:56:07.132Z",
+    "last_updated": "2026-08-24T10:20:24.993Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_id": 406408083,
-    "original_repository_sha": "c3a00518040e7600eaafdaa41ba8e30d7fb9f1e0",
+    "original_repository_sha": "ea3d498b76b5ee73db9b29a79a7c9f120bbbd41f",
     "enhanced_repository": "enhansome/enhansome-knowledge-management",
     "enhanced_repository_description": null,
     "title": "Awesome Knowledge Management with stars"
