@@ -12,7 +12,7 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:48:03Z",
+            "last_commit": "2026-08-25T09:55:49Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
             "stars": 37578
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T02:14:18Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21208
+            "stars": 21213
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T00:49:29Z",
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12683
+            "stars": 12684
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-06T04:53:20Z",
             "owner": "marciopuga",
             "repo": "cog",
-            "stars": 375
+            "stars": 376
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-25T05:07:39Z",
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 284
+            "stars": 276
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 1269112987,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:38:22Z",
+            "last_commit": "2026-08-25T08:43:19Z",
             "owner": "Drakonis96",
             "repo": "nodus",
             "stars": 99
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-24T21:06:42Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28169
+            "stars": 28171
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:20.304Z",
+    "last_updated": "2026-08-25T10:04:00.331Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_id": 406408083,
     "original_repository_sha": "ea3d498b76b5ee73db9b29a79a7c9f120bbbd41f",
