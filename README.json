@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:56:56Z",
+            "last_commit": "2026-08-24T19:48:03Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37571
+            "stars": 37578
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:34:51Z",
+            "last_commit": "2026-08-25T02:14:18Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21202
+            "stars": 21208
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 838659679,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:00:31Z",
+            "last_commit": "2026-08-25T00:49:29Z",
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12680
+            "stars": 12683
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 1160354976,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:45:55Z",
+            "last_commit": "2026-08-25T05:07:39Z",
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 274
+            "stars": 284
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 1269112987,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:31:26Z",
+            "last_commit": "2026-08-25T05:38:22Z",
             "owner": "Drakonis96",
             "repo": "nodus",
-            "stars": 96
+            "stars": 99
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 1221815948,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T22:56:59Z",
+            "last_commit": "2026-08-24T16:25:47Z",
             "owner": "frankchu91",
             "repo": "mindbase-llm-wiki",
-            "stars": 86
+            "stars": 88
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-06-27T11:38:55Z",
             "owner": "ZengLiangYi",
             "repo": "ChatCrystal",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-23T18:22:26Z",
             "owner": "jayamitkatariya",
             "repo": "personacli",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-23T18:22:26Z",
             "owner": "jayamitkatariya",
             "repo": "personacli",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-21T21:18:06Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17218
+            "stars": 17219
           }
         },
         {
@@ -405,10 +405,10 @@
             "archived": false,
             "id": 90356372,
             "language": "Python",
-            "last_commit": "2026-08-19T12:57:58Z",
+            "last_commit": "2026-08-24T21:06:42Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28165
+            "stars": 28169
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4790
+            "stars": 4789
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:31.484Z",
+    "last_updated": "2026-08-25T06:08:20.304Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_id": 406408083,
     "original_repository_sha": "ea3d498b76b5ee73db9b29a79a7c9f120bbbd41f",
