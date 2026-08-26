@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T09:55:49Z",
+            "last_commit": "2026-08-26T08:41:11Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37578
+            "stars": 37593
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-25T02:14:18Z",
+            "last_commit": "2026-08-26T09:28:44Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21213
+            "stars": 21235
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 838659679,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T00:49:29Z",
+            "last_commit": "2026-08-26T09:18:38Z",
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12684
+            "stars": 12687
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-25T05:07:39Z",
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 276
+            "stars": 286
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 1269112987,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T08:43:19Z",
+            "last_commit": "2026-08-26T10:00:35Z",
             "owner": "Drakonis96",
             "repo": "nodus",
             "stars": 99
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-23T03:27:16Z",
             "owner": "ariso-ai",
             "repo": "oats",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-24T12:45:23Z",
+            "last_commit": "2026-08-26T06:41:08Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-21T21:18:06Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17219
+            "stars": 17221
           }
         },
         {
@@ -405,10 +405,10 @@
             "archived": false,
             "id": 90356372,
             "language": "Python",
-            "last_commit": "2026-08-24T21:06:42Z",
+            "last_commit": "2026-08-25T10:57:34Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28171
+            "stars": 28180
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1834
+            "stars": 1835
           }
         }
       ],
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:04:00.331Z",
+    "last_updated": "2026-08-26T10:10:06.767Z",
     "original_repository": "brettkromkamp/awesome-knowledge-management",
     "original_repository_id": 406408083,
     "original_repository_sha": "ea3d498b76b5ee73db9b29a79a7c9f120bbbd41f",
