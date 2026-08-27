@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:57:06Z",
+            "last_commit": "2026-08-27T19:44:30Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37608
+            "stars": 37613
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-27T04:03:08Z",
+            "last_commit": "2026-08-27T19:53:45Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21251
+            "stars": 21265
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-26T13:58:21Z",
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12691
+            "stars": 12692
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-25T05:07:39Z",
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 292
+            "stars": 293
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 1269112987,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:12:55Z",
+            "last_commit": "2026-08-27T19:28:38Z",
             "owner": "Drakonis96",
             "repo": "nodus",
             "stars": 100
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 1247591069,
             "language": "Rust",
-            "last_commit": "2026-08-27T02:47:08Z",
+            "last_commit": "2026-08-27T17:31:14Z",
             "owner": "ariso-ai",
             "repo": "oats",
             "stars": 24
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-26T06:41:08Z",
+            "last_commit": "2026-08-27T18:26:06Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 890377,
             "language": "Python",
-            "last_commit": "2026-08-26T19:26:00Z",
+            "last_commit": "2026-08-27T19:32:16Z",
             "owner": "networkx",
             "repo": "networkx",
             "stars": 17228
@@ -321,7 +321,7 @@
             "last_commit": "2025-08-09T18:56:08Z",
             "owner": "plotly",
             "repo": "dash-cytoscape",
-            "stars": 679
+            "stars": 678
           }
         },
         {
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 90356372,
             "language": "Python",
-            "last_commit": "2026-08-27T01:24:18Z",
+            "last_commit": "2026-08-27T19:13:28Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28192
+            "stars": 28194
           }
         },
         {
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:32.497Z",
+    "last_updated": "2026-08-27T19:58:08.917Z",
     "original_repository_info": {
       "archived": false,
       "id": 406408083,
