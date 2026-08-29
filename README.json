@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:40:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37624
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -26,12 +51,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)",
+            "homepage": "https://screenpipe.com",
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-28T20:55:52Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:44:03Z",
+            "open_issues": 60,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21278
+            "stars": 21281,
+            "topics": [
+              "agents",
+              "agi",
+              "ai",
+              "ai-memory",
+              "audio-recording",
+              "computer-vision",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "local-ai",
+              "local-first",
+              "machine-learning",
+              "mcp",
+              "multimodal",
+              "openclaw",
+              "privacy",
+              "rewind",
+              "screen-recording",
+              "speech-to-text",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -42,12 +93,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
+            "homepage": "https://notegen.top",
             "id": 838659679,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T23:18:20Z",
+            "open_issues": 109,
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12699
+            "stars": 12699,
+            "topics": [
+              "agent",
+              "ai-notes",
+              "knowledge-base",
+              "knowledge-management",
+              "llm",
+              "local-first",
+              "markdown",
+              "markdown-editor",
+              "mcp",
+              "nextjs",
+              "note-taking",
+              "open-source",
+              "personal-knowledge-management",
+              "rag",
+              "tauri",
+              "webdav"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -58,12 +131,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rudimentary Roam replica with Org-mode",
+            "homepage": "https://www.orgroam.com",
             "id": 231891986,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-27T03:16:28Z",
+            "open_issues": 89,
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6016
+            "stars": 6016,
+            "topics": [
+              "hacktoberfest",
+              "memex",
+              "org-mode",
+              "pkm",
+              "roam",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -74,12 +159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plain-text memory system for AI agents. Clone it, point your agent at it, start remembering.",
+            "homepage": null,
             "id": 1182763192,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-06T04:53:20Z",
+            "open_issues": 2,
             "owner": "marciopuga",
             "repo": "cog",
-            "stars": 376
+            "stars": 376,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -90,12 +180,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+            "homepage": "https://chenxiachan.github.io/thoughtdag/",
             "id": 1160354976,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:15:39Z",
+            "open_issues": 2,
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 297
+            "stars": 299,
+            "topics": [
+              "agentic-search",
+              "ai-tools",
+              "context-engineering",
+              "dag",
+              "human-in-the-loop",
+              "infinite-canvas",
+              "knowledge-graph",
+              "llm",
+              "local-first",
+              "mcp",
+              "note-taking",
+              "ollama",
+              "pkm",
+              "react-flow",
+              "research-tool",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -106,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rslt, take five-ish",
+            "homepage": null,
             "id": 160754592,
             "language": "Haskell",
+            "license": "GPL-3.0",
             "last_commit": "2021-06-03T18:57:11Z",
+            "open_issues": 11,
             "owner": "JeffreyBenjaminBrown",
             "repo": "hode",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -122,12 +239,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source research workspace for connecting sources, evidence, notes and ideas. Built for academic research with Zotero integration. Available on MacOS, Windows and Linux.",
+            "homepage": "https://nodusresearch.com",
             "id": 1269112987,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:54:25Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:27:47Z",
+            "open_issues": 6,
             "owner": "Drakonis96",
             "repo": "nodus",
-            "stars": 113
+            "stars": 115,
+            "topics": [
+              "academic-research",
+              "academic-tools",
+              "archive",
+              "database",
+              "database-management",
+              "graph",
+              "investigation",
+              "knowledge-graph",
+              "library",
+              "local-first",
+              "open-science",
+              "open-source",
+              "papers",
+              "pkm",
+              "research",
+              "study",
+              "study-notes",
+              "zotero",
+              "zotero-addon",
+              "zotero-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -138,12 +281,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karpathy's LLM Wiki idea as a product — an AI that builds and maintains a markdown wiki from your notes and sources. MCP server + web UI, runs on free local models (Ollama), no API key needed. MIT.",
+            "homepage": "https://frankchu91.github.io/mindbase-llm-wiki/",
             "id": 1221815948,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:25:47Z",
+            "open_issues": 0,
             "owner": "frankchu91",
             "repo": "mindbase-llm-wiki",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "ai",
+              "karpathy",
+              "knowledge-base",
+              "llm",
+              "llm-wiki",
+              "llm-wiki-karpathy",
+              "llm-wiki-knowledge-base",
+              "llm-wiki-mcp",
+              "llm-wiki-pattern",
+              "llm-wiki-personal-knowledge-base",
+              "llm-wiki-template",
+              "local-llm",
+              "mcp",
+              "note-taking",
+              "ollama",
+              "second-brain",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -154,12 +320,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first AI PKM for coding conversations: import Claude Code/Cursor/Codex, distill notes, semantic search, tag graph, MCP memory.",
+            "homepage": "https://zengliangyi.github.io/ChatCrystal/",
             "id": 1193284630,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-27T11:38:55Z",
+            "open_issues": 0,
             "owner": "ZengLiangYi",
             "repo": "ChatCrystal",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "agent-skills",
+              "ai-memory",
+              "ai-tools",
+              "claude-code",
+              "codex",
+              "cursor",
+              "electron",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "llm",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "note-taking",
+              "ollama",
+              "personal-knowledge-base",
+              "personal-knowledge-management",
+              "pkm",
+              "semantic-search"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -170,12 +362,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The free, open-source meeting-notes app for your Mac — offline transcription and AI notes, free in the cloud or 100% on-device.",
+            "homepage": "https://ariso.ai/oats",
             "id": 1247591069,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:31:14Z",
+            "open_issues": 25,
             "owner": "ariso-ai",
             "repo": "oats",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "ai-notes",
+              "apple-silicon",
+              "local-first",
+              "macos",
+              "meeting-notes",
+              "menubar-app",
+              "mlx",
+              "on-device",
+              "open-source",
+              "privacy",
+              "rust",
+              "speech-to-text",
+              "tauri",
+              "transcription",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -186,12 +399,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files - all plain Markdown, no cloud.",
+            "homepage": "https://jayamitkatariya.github.io/personacli/",
             "id": 1331789580,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:06:31Z",
+            "open_issues": 1,
             "owner": "jayamitkatariya",
             "repo": "personacli",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai",
+              "ai-assistant",
+              "cli",
+              "knowledge-management",
+              "llm",
+              "local-first",
+              "macos",
+              "markdown",
+              "note-taking",
+              "notes",
+              "obsidian-alternative",
+              "ollama",
+              "personal-workspace",
+              "pkm",
+              "productivity",
+              "second-brain",
+              "self-hosted",
+              "tasks",
+              "typescript",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -202,12 +441,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files - all plain Markdown, no cloud.",
+            "homepage": "https://jayamitkatariya.github.io/personacli/",
             "id": 1331789580,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:06:31Z",
+            "open_issues": 1,
             "owner": "jayamitkatariya",
             "repo": "personacli",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai",
+              "ai-assistant",
+              "cli",
+              "knowledge-management",
+              "llm",
+              "local-first",
+              "macos",
+              "markdown",
+              "note-taking",
+              "notes",
+              "obsidian-alternative",
+              "ollama",
+              "personal-workspace",
+              "pkm",
+              "productivity",
+              "second-brain",
+              "self-hosted",
+              "tasks",
+              "typescript",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -218,12 +483,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal-native LifeOS with an optional local Web UI for tasks, notes, habits, schedules, timelogs, relationships, and human-agent collaboration.",
+            "homepage": null,
             "id": 1205537709,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:45:36Z",
+            "open_issues": 1,
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "agentic-workflows",
+              "ai-agents",
+              "cli",
+              "fastapi",
+              "habit-tracking",
+              "lifeos",
+              "local-first",
+              "note-taking",
+              "personal-crm",
+              "postgresql",
+              "python",
+              "quantified-self",
+              "react",
+              "schedule-management",
+              "second-brain",
+              "sqlite",
+              "task-management",
+              "time-tracking",
+              "vite",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -234,12 +525,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.",
+            "homepage": null,
             "id": 979389096,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-23T14:03:31Z",
+            "open_issues": 1,
             "owner": "SamuelGong",
             "repo": "ZhihuAgent",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "llm",
+              "qa",
+              "rag",
+              "zhihu"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -250,12 +551,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A living second brain that connects everything you think with — your AI agents, your notes, and beyond.",
+            "homepage": "https://tidemind.ai/",
             "id": 1209221039,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T04:49:53Z",
+            "open_issues": 4,
             "owner": "SawyerHan-AI",
             "repo": "TideMind",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-memory",
+              "claude-code",
+              "harness",
+              "knowledge-graph",
+              "knowledge-management",
+              "local-first",
+              "mcp",
+              "model-context-protocol",
+              "note-taking",
+              "obsidian",
+              "open-source",
+              "openai",
+              "personal-knowledge-management",
+              "pkm",
+              "react",
+              "second-brain",
+              "self-hosted",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -266,12 +593,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free offline semantic text grouper — split pasted text into topic segments by meaning, not word count. Perfect for Obsidian, Logseq, Notion, PKM, researchers, writers. 100% client-side, no server, no API key, no tracking.",
+            "homepage": null,
             "id": 1332805392,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:14:21Z",
+            "open_issues": 1,
             "owner": "andrwspt",
             "repo": "topicsplit",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "atomic-notes",
+              "logseq",
+              "markdown",
+              "nlp",
+              "notion",
+              "obsidian",
+              "offline",
+              "pkm",
+              "privacy",
+              "productivity",
+              "research",
+              "semantic-analysis",
+              "semantic-text-splitting",
+              "text-processing",
+              "text-splitting",
+              "writing"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -282,12 +631,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-checking Obsidian vault for AI coding agents: persistent memory that proves it works — health score, dead-link scan, git guard against mass deletion. No Node, no plugins.",
+            "homepage": "https://secondbrainstarter.github.io/verified-memory-vault/",
             "id": 1344864606,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T05:42:23Z",
+            "open_issues": 0,
             "owner": "secondbrainstarter",
             "repo": "verified-memory-vault",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-memory",
+              "ai-memory",
+              "claude-code",
+              "developer-tools",
+              "markdown",
+              "memory-management",
+              "obsidian",
+              "obsidian-vault",
+              "pkm",
+              "python",
+              "second-brain",
+              "starter-template"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         }
@@ -304,12 +671,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network Analysis in Python",
+            "homepage": "https://networkx.org",
             "id": 890377,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:07:11Z",
+            "open_issues": 325,
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17230
+            "stars": 17231,
+            "topics": [
+              "complex-networks",
+              "graph-algorithms",
+              "graph-analysis",
+              "graph-generation",
+              "graph-theory",
+              "graph-visualization",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -320,12 +700,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a mind mapping library built by javascript",
+            "homepage": "http://hizzgdev.github.io/jsmind/",
             "id": 5562943,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T15:55:29Z",
+            "open_issues": 1,
             "owner": "hizzgdev",
             "repo": "jsmind",
-            "stars": 3792
+            "stars": 3792,
+            "topics": [
+              "bsd",
+              "canvas",
+              "es6",
+              "freemind",
+              "javascript",
+              "jsmind",
+              "mindmap",
+              "svg",
+              "xmind"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -336,12 +731,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive network visualization in Python and Dash, powered by Cytoscape.js",
+            "homepage": "https://dash.plot.ly/cytoscape",
             "id": 143769302,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-09T18:56:08Z",
+            "open_issues": 69,
             "owner": "plotly",
             "repo": "dash-cytoscape",
-            "stars": 678
+            "stars": 678,
+            "topics": [
+              "bioinformatics",
+              "biopython",
+              "computational-biology",
+              "cytoscape",
+              "cytoscapejs",
+              "dash",
+              "data-science",
+              "graph-theory",
+              "network-graph",
+              "network-visualization",
+              "plotly",
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -352,12 +765,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TopicDB is a topic maps-based semantic graph store (using SQLite for persistence)",
+            "homepage": null,
             "id": 77067666,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-07T07:35:18Z",
+            "open_issues": 8,
             "owner": "brettkromkamp",
             "repo": "topic-db",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "graph-database",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "linked-data",
+              "python",
+              "python-library",
+              "semantic-web",
+              "sqlite3",
+              "sqlite3-database",
+              "topic-map"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -368,12 +798,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tree diagrams with JavaScript :evergreen_tree: :chart_with_upwards_trend:",
+            "homepage": null,
             "id": 136829698,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-04-03T19:05:28Z",
+            "open_issues": 10,
             "owner": "PierreCapo",
             "repo": "treeviz",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "big-data",
+              "family-tree",
+              "hierarchy",
+              "javascript",
+              "represent-tree-diagrams",
+              "tree",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -384,12 +827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remarkable Wiki provides user-friendly interface for reading and navigating in markdown documents",
+            "homepage": null,
             "id": 343579250,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-05-24T22:00:11Z",
+            "open_issues": 0,
             "owner": "mrjazz",
             "repo": "remarkable",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         }
@@ -406,12 +854,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of research on knowledge graphs",
+            "homepage": "https://shaoxiongji.github.io/knowledge-graphs/",
             "id": 163790723,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-07T16:30:33Z",
+            "open_issues": 0,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1794
+            "stars": 1794,
+            "topics": [
+              "commonsense",
+              "cross-modal",
+              "dialogue-systems",
+              "information-retrieval",
+              "knowledge-graph",
+              "knowledge-graph-completion",
+              "meta-relational-learning",
+              "natural-language-processing",
+              "ner",
+              "paper",
+              "question-answering",
+              "reasoning",
+              "recommendation-systems",
+              "relation-extraction",
+              "representation-learning",
+              "survey",
+              "temporal-knowledge-graph"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -422,12 +893,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of various semantic web and linked data resources.",
+            "homepage": null,
             "id": 71265967,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-14T12:39:32Z",
+            "open_issues": 32,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1680
+            "stars": 1680,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "owl",
+              "r2rml",
+              "rdf",
+              "semantic-web",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         }
@@ -444,12 +928,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+            "homepage": "https://archivebox.io",
             "id": 90356372,
             "language": "Python",
-            "last_commit": "2026-08-28T20:50:44Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:18:48Z",
+            "open_issues": 159,
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28199
+            "stars": 28198,
+            "topics": [
+              "archivebox",
+              "backups",
+              "bookmark-archiver",
+              "browser-bookmarks",
+              "chromium",
+              "digipres",
+              "firefox",
+              "headless-browser",
+              "internet-archiving",
+              "pinboard",
+              "pocket",
+              "python",
+              "rss",
+              "self-hosted",
+              "singlefile",
+              "warc",
+              "wayback-machine",
+              "web-archiving",
+              "wget",
+              "youtube-dl"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -460,12 +970,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs",
+            "homepage": null,
             "id": 263146261,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-22T02:48:25Z",
+            "open_issues": 29,
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4789
+            "stars": 4788,
+            "topics": [
+              "digital-garden",
+              "digital-gardening",
+              "second-brain",
+              "wiki",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -476,12 +997,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱",
+            "homepage": null,
             "id": 268514289,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-30T08:41:06Z",
+            "open_issues": 1,
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1835
+            "stars": 1834,
+            "topics": [
+              "digital-garden",
+              "second-brain",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         }
@@ -490,15 +1020,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:06.979Z",
+    "last_updated": "2026-08-29T04:35:07.420Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space",
+      "homepage": null,
       "id": 406408083,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-27T06:33:02Z",
+      "open_issues": 10,
       "owner": "brettkromkamp",
       "repo": "awesome-knowledge-management",
-      "stars": 869
+      "stars": 869,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "graph-database",
+        "knowledge-graph",
+        "knowledge-management",
+        "llm-agents",
+        "llm-tools",
+        "llms",
+        "semantic-web"
+      ]
     },
     "original_repository_sha": "c12335d4b3b354e83fcb21a653c4d6c64dccb4e3",
     "enhanced_repository": "enhansome/enhansome-knowledge-management",
