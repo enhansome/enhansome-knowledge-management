@@ -15,11 +15,11 @@
             "id": 92111509,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T15:08:00Z",
-            "open_issues": 688,
+            "last_commit": "2026-09-08T13:48:18Z",
+            "open_issues": 678,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37757,
+            "stars": 37765,
             "topics": [
               "electron",
               "electron-app",
@@ -56,11 +56,11 @@
             "id": 817326197,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T13:54:34Z",
+            "last_commit": "2026-09-08T13:39:14Z",
             "open_issues": 58,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21463,
+            "stars": 21480,
             "topics": [
               "agents",
               "agi",
@@ -98,11 +98,11 @@
             "id": 838659679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T23:18:20Z",
+            "last_commit": "2026-09-08T11:58:53Z",
             "open_issues": 124,
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12738,
+            "stars": 12742,
             "topics": [
               "agent",
               "ai-notes",
@@ -140,7 +140,7 @@
             "open_issues": 88,
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6025,
+            "stars": 6024,
             "topics": [
               "hacktoberfest",
               "memex",
@@ -149,27 +149,6 @@
               "roam",
               "zettelkasten"
             ]
-          },
-          "first_seen": "2026-08-28T20:59:06.979Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Cog",
-          "description": "A cognitive architecture that gives AI agents persistent memory using plain-text markdown files. Zettelkasten-inspired with four memory speeds: fragments, threads, webs and indexes. Zero dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A plain-text memory system for AI agents. Clone it, point your agent at it, start remembering.",
-            "homepage": null,
-            "id": 1182763192,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-09-06T22:42:52Z",
-            "open_issues": 2,
-            "owner": "marciopuga",
-            "repo": "cog",
-            "stars": 375,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -185,11 +164,11 @@
             "id": 1160354976,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T11:27:43Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-07T16:59:55Z",
+            "open_issues": 6,
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 362,
+            "stars": 378,
             "topics": [
               "agentic-search",
               "ai-tools",
@@ -211,6 +190,27 @@
               "research-tool",
               "self-hosted"
             ]
+          },
+          "first_seen": "2026-08-28T20:59:06.979Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Cog",
+          "description": "A cognitive architecture that gives AI agents persistent memory using plain-text markdown files. Zettelkasten-inspired with four memory speeds: fragments, threads, webs and indexes. Zero dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A plain-text memory system for AI agents. Clone it, point your agent at it, start remembering.",
+            "homepage": null,
+            "id": 1182763192,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-09-06T22:42:52Z",
+            "open_issues": 2,
+            "owner": "marciopuga",
+            "repo": "cog",
+            "stars": 376,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
         },
@@ -248,7 +248,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-07T10:20:56Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "Drakonis96",
             "repo": "nodus",
             "stars": 126,
@@ -293,7 +293,7 @@
             "open_issues": 0,
             "owner": "frankchu91",
             "repo": "mindbase-llm-wiki",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "ai",
               "karpathy",
@@ -491,7 +491,7 @@
             "id": 1205537709,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T12:35:28Z",
+            "last_commit": "2026-09-08T13:19:15Z",
             "open_issues": 3,
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
@@ -679,11 +679,11 @@
             "id": 890377,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T13:52:13Z",
+            "last_commit": "2026-09-07T23:55:54Z",
             "open_issues": 324,
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17251,
+            "stars": 17252,
             "topics": [
               "complex-networks",
               "graph-algorithms",
@@ -866,7 +866,7 @@
             "open_issues": 0,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1793,
+            "stars": 1792,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -901,8 +901,8 @@
             "id": 71265967,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-04T19:05:31Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-08T13:45:55Z",
+            "open_issues": 29,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
             "stars": 1684,
@@ -937,10 +937,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T09:24:25Z",
-            "open_issues": 160,
+            "open_issues": 159,
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28249,
+            "stars": 28252,
             "topics": [
               "archivebox",
               "backups",
@@ -982,7 +982,7 @@
             "open_issues": 30,
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4799,
+            "stars": 4800,
             "topics": [
               "digital-garden",
               "digital-gardening",
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:12:23.511Z",
+    "last_updated": "2026-09-08T13:49:41.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space",
