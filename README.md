@@ -77,17 +77,17 @@
 
 ## Platforms, Applications and Tools
 
-* [Trilium Notes](https://github.com/zadam/trilium) ⭐ 37,853 | 🐛 683 | 🌐 TypeScript | 📅 2026-09-15 - A hierarchical note taking application with a focus on building large personal knowledge bases.
-* [Screenpipe](https://github.com/mediar-ai/screenpipe) ⭐ 21,583 | 🐛 43 | 🌐 Rust | 📅 2026-09-15 - 24/7 local AI screen & mic recording for knowledge capture. Build AI apps with full context. Works with Ollama.
-* [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,805 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-14 - An open-source, local-first Markdown note-taking app that helps capture scattered information and organize it into structured notes with AI.
-* [Org-roam](https://github.com/org-roam/org-roam) ⭐ 6,028 | 🐛 88 | 🌐 Emacs Lisp | 📅 2026-04-27 - A Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs.
-* [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) ⭐ 454 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-15 - An open-source, local-first visual workspace for branching and managing LLM conversations, where graph edges determine the context sent to the model.
+* [Trilium Notes](https://github.com/zadam/trilium) ⭐ 37,865 | 🐛 681 | 🌐 TypeScript | 📅 2026-09-16 - A hierarchical note taking application with a focus on building large personal knowledge bases.
+* [Screenpipe](https://github.com/mediar-ai/screenpipe) ⭐ 21,591 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-16 - 24/7 local AI screen & mic recording for knowledge capture. Build AI apps with full context. Works with Ollama.
+* [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,811 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-14 - An open-source, local-first Markdown note-taking app that helps capture scattered information and organize it into structured notes with AI.
+* [Org-roam](https://github.com/org-roam/org-roam) ⭐ 6,027 | 🐛 88 | 🌐 Emacs Lisp | 📅 2026-04-27 - A Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs.
+* [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) ⭐ 460 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-15 - An open-source, local-first visual workspace for branching and managing LLM conversations, where graph edges determine the context sent to the model.
 * [Cog](https://github.com/marciopuga/cog) ⭐ 376 | 🐛 2 | 📅 2026-09-06 - A cognitive architecture that gives AI agents persistent memory using plain-text markdown files. Zettelkasten-inspired with four memory speeds: fragments, threads, webs and indexes. Zero dependencies.
-* [Nodus](https://github.com/Drakonis96/nodus) ⭐ 234 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-15 - Desktop workspace for researchers, teachers, and students to connect sources, notes, data, ideas, and learning materials.
+* [Nodus](https://github.com/Drakonis96/nodus) ⭐ 240 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-16 - Desktop workspace for researchers, teachers, and students to connect sources, notes, data, ideas, and learning materials.
 * [Hode](https://github.com/JeffreyBenjaminBrown/hode) ⭐ 150 | 🐛 11 | 🌐 Haskell | 📅 2021-06-03 An editor, search engine and query language for a knowledge hypergraph. Relationships can have any number of members, and those members can be other relationships.
-* [MindBase](https://github.com/frankchu91/mindbase-llm-wiki) ⭐ 106 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - An open-source implementation of Karpathy's LLM Wiki idea: an AI maintains a persistent markdown wiki from your notes and sources — approval-gated updates, contradiction linting, runs on free local models.
+* [MindBase](https://github.com/frankchu91/mindbase-llm-wiki) ⭐ 112 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - An open-source implementation of Karpathy's LLM Wiki idea: an AI maintains a persistent markdown wiki from your notes and sources — approval-gated updates, contradiction linting, runs on free local models.
+* [OATS](https://github.com/ariso-ai/oats) ⭐ 61 | 🐛 13 | 🌐 Rust | 📅 2026-09-16 - Open-source macOS meeting-notes app that records conversations, transcribes them, labels speakers, and generates Markdown notes with an optional fully offline mode.
 * [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal) ⭐ 58 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-14 - A local-first AI PKM for coding conversations that turns Claude Code, Cursor, Codex CLI, Trae, and GitHub Copilot chats into structured notes, tag graphs, semantic search, Markdown exports, and reusable MCP memory.
-* [OATS](https://github.com/ariso-ai/oats) ⭐ 47 | 🐛 12 | 🌐 Rust | 📅 2026-09-14 - Open-source macOS meeting-notes app that records conversations, transcribes them, labels speakers, and generates Markdown notes with an optional fully offline mode.
 * [Persona](https://github.com/jayamitkatariya/personacli) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-09 - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
 * [Persona](https://github.com/jayamitkatariya/personacli) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-09 - Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files — all plain Markdown.
 * [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-09-12 - A terminal-native LifeOS for structuring notes, tasks, habits, events, schedules, and timelogs in one CLI workflow.
@@ -191,7 +191,7 @@
 
 ## Libraries
 
-* [NetworkX](https://github.com/networkx/networkx) ⭐ 17,258 | 🐛 311 | 🌐 Python | 📅 2026-09-12 - A Python package for the creation, manipulation and study of complex networks.
+* [NetworkX](https://github.com/networkx/networkx) ⭐ 17,260 | 🐛 312 | 🌐 Python | 📅 2026-09-12 - A Python package for the creation, manipulation and study of complex networks.
 * [jsMind](https://github.com/hizzgdev/jsmind) ⭐ 3,793 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-18 - A JavaScript library for mind map visualizations.
 * [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) ⭐ 679 | 🐛 69 | 🌐 Python | 📅 2025-08-09 - A [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.
 * [TopicDB](https://github.com/brettkromkamp/topic-db) ⭐ 275 | 🐛 8 | 🌐 Python | 📅 2025-01-07 - A topic maps-based semantic graph store (using SQLite for persistence).
@@ -226,13 +226,13 @@
 ## Related Awesome-Lists
 
 * [Awesome Knowledge Graph](https://github.com/shaoxiongji/awesome-knowledge-graph) ⭐ 1,794 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07 - A curated collection of research on knowledge graphs.
-* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,690 | 🐛 31 | 📅 2026-09-08 - A curated list of various semantic web and linked data resources.
+* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,691 | 🐛 31 | 📅 2026-09-08 - A curated list of various semantic web and linked data resources.
 
 ## Miscellaneous
 
-* [ArchiveBox](https://github.com/pirate/ArchiveBox) ⭐ 28,447 | 🐛 160 | 🌐 Python | 📅 2026-09-14 - An open source self-hosted internet archiving solution.
-* [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) ⭐ 4,804 | 🐛 31 | 🌐 JavaScript | 📅 2024-06-22 - A collective of gardeners publicly tending their digital notes on the interwebs.
-* [Second-Brain](https://github.com/KasperZutterman/Second-Brain) ⭐ 1,841 | 🐛 2 | 📅 2026-06-30 - A curated list of awesome public Zettelkastens / Second Brains / Digital Gardens.
+* [ArchiveBox](https://github.com/pirate/ArchiveBox) ⭐ 28,466 | 🐛 162 | 🌐 Python | 📅 2026-09-16 - An open source self-hosted internet archiving solution.
+* [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) ⭐ 4,802 | 🐛 31 | 🌐 JavaScript | 📅 2024-06-22 - A collective of gardeners publicly tending their digital notes on the interwebs.
+* [Second-Brain](https://github.com/KasperZutterman/Second-Brain) ⭐ 1,840 | 🐛 1 | 📅 2026-09-16 - A curated list of awesome public Zettelkastens / Second Brains / Digital Gardens.
 * [Artificial Brain Networked notebook](https://www.notion.so/Artificial-Brain-Networked-notebook-a131b468fc6f43218fb8105430304709)
 * [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
 * [Contextualise thread on Hacker News](https://news.ycombinator.com/item?id=22282583)
@@ -257,4 +257,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
