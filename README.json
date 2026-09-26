@@ -15,11 +15,11 @@
             "id": 92111509,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T14:40:29Z",
-            "open_issues": 673,
+            "last_commit": "2026-09-26T11:48:13Z",
+            "open_issues": 665,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37982,
+            "stars": 37997,
             "topics": [
               "electron",
               "electron-app",
@@ -56,11 +56,11 @@
             "id": 817326197,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T08:11:24Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-26T13:51:14Z",
+            "open_issues": 34,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21705,
+            "stars": 21716,
             "topics": [
               "agents",
               "agi",
@@ -98,11 +98,11 @@
             "id": 838659679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T14:37:00Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-26T13:16:29Z",
+            "open_issues": 103,
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12836,
+            "stars": 12842,
             "topics": [
               "agent",
               "ai-notes",
@@ -164,11 +164,11 @@
             "id": 1160354976,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T13:44:43Z",
+            "last_commit": "2026-09-26T10:38:50Z",
             "open_issues": 5,
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 488,
+            "stars": 492,
             "topics": [
               "agentic-search",
               "ai-tools",
@@ -226,11 +226,11 @@
             "id": 1269112987,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T14:19:06Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-26T12:50:51Z",
+            "open_issues": 8,
             "owner": "Drakonis96",
             "repo": "nodus",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "academic-research",
               "academic-tools",
@@ -293,7 +293,7 @@
             "open_issues": 0,
             "owner": "frankchu91",
             "repo": "mindbase-llm-wiki",
-            "stars": 119,
+            "stars": 122,
             "topics": [
               "ai",
               "karpathy",
@@ -329,7 +329,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-24T19:22:31Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "ariso-ai",
             "repo": "oats",
             "stars": 84,
@@ -411,7 +411,7 @@
             "open_issues": 1,
             "owner": "jayamitkatariya",
             "repo": "personacli",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "ai",
               "ai-assistant",
@@ -453,7 +453,7 @@
             "open_issues": 1,
             "owner": "jayamitkatariya",
             "repo": "personacli",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "ai",
               "ai-assistant",
@@ -523,32 +523,6 @@
         },
         {
           "node_type": "item",
-          "title": "ZhihuAgent",
-          "description": "AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.",
-            "homepage": null,
-            "id": 979389096,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-07-23T14:03:31Z",
-            "open_issues": 1,
-            "owner": "SamuelGong",
-            "repo": "ZhihuAgent",
-            "stars": 11,
-            "topics": [
-              "llm",
-              "qa",
-              "rag",
-              "zhihu"
-            ]
-          },
-          "first_seen": "2026-08-28T20:59:06.979Z"
-        },
-        {
-          "node_type": "item",
           "title": "TideMind",
           "description": "Open-source AI memory layer with a living knowledge graph. Connects AI tools and notes via MCP. Local-first, SQLite-backed.",
           "children": [],
@@ -563,7 +537,7 @@
             "open_issues": 5,
             "owner": "SawyerHan-AI",
             "repo": "TideMind",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "ai",
               "ai-agent",
@@ -585,6 +559,32 @@
               "second-brain",
               "self-hosted",
               "skills"
+            ]
+          },
+          "first_seen": "2026-08-28T20:59:06.979Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ZhihuAgent",
+          "description": "AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.",
+            "homepage": null,
+            "id": 979389096,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-07-23T14:03:31Z",
+            "open_issues": 1,
+            "owner": "SamuelGong",
+            "repo": "ZhihuAgent",
+            "stars": 11,
+            "topics": [
+              "llm",
+              "qa",
+              "rag",
+              "zhihu"
             ]
           },
           "first_seen": "2026-08-28T20:59:06.979Z"
@@ -679,11 +679,11 @@
             "id": 890377,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T01:50:55Z",
+            "last_commit": "2026-09-25T20:27:49Z",
             "open_issues": 306,
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17286,
+            "stars": 17289,
             "topics": [
               "complex-networks",
               "graph-algorithms",
@@ -866,7 +866,7 @@
             "open_issues": 0,
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1796,
+            "stars": 1797,
             "topics": [
               "commonsense",
               "cross-modal",
@@ -905,7 +905,7 @@
             "open_issues": 31,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1698,
+            "stars": 1697,
             "topics": [
               "awesome",
               "awesome-list",
@@ -936,11 +936,11 @@
             "id": 90356372,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T09:59:29Z",
-            "open_issues": 162,
+            "last_commit": "2026-09-26T10:44:01Z",
+            "open_issues": 165,
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28602,
+            "stars": 28619,
             "topics": [
               "archivebox",
               "backups",
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:43:19.019Z",
+    "last_updated": "2026-09-26T13:51:51.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space",
