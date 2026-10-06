@@ -15,11 +15,11 @@
             "id": 92111509,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:24:54Z",
-            "open_issues": 632,
+            "last_commit": "2026-10-06T12:46:02Z",
+            "open_issues": 633,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 38222,
+            "stars": 38226,
             "topics": [
               "electron",
               "electron-app",
@@ -56,11 +56,11 @@
             "id": 817326197,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T01:48:48Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-06T16:12:11Z",
+            "open_issues": 39,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21827,
+            "stars": 21832,
             "topics": [
               "agents",
               "agi",
@@ -140,7 +140,7 @@
             "open_issues": 89,
             "owner": "org-roam",
             "repo": "org-roam",
-            "stars": 6035,
+            "stars": 6037,
             "topics": [
               "hacktoberfest",
               "memex",
@@ -168,7 +168,7 @@
             "open_issues": 11,
             "owner": "chenxiachan",
             "repo": "thoughtdag",
-            "stars": 561,
+            "stars": 564,
             "topics": [
               "agentic-search",
               "ai-tools",
@@ -332,7 +332,7 @@
             "open_issues": 22,
             "owner": "ariso-ai",
             "repo": "oats",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "ai-notes",
               "apple-silicon",
@@ -369,7 +369,7 @@
             "open_issues": 2,
             "owner": "ZengLiangYi",
             "repo": "ChatCrystal",
-            "stars": 58,
+            "stars": 57,
             "topics": [
               "agent-skills",
               "ai-memory",
@@ -683,7 +683,7 @@
             "open_issues": 316,
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17311,
+            "stars": 17312,
             "topics": [
               "complex-networks",
               "graph-algorithms",
@@ -940,7 +940,7 @@
             "open_issues": 162,
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28693,
+            "stars": 28695,
             "topics": [
               "archivebox",
               "backups",
@@ -982,7 +982,7 @@
             "open_issues": 31,
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4816,
+            "stars": 4818,
             "topics": [
               "digital-garden",
               "digital-gardening",
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:33.912Z",
+    "last_updated": "2026-10-06T16:14:45.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space",
